@@ -18,6 +18,8 @@ namespace BinaryTreeDepathAdvancedAlgoritem
             }
         }
 
+
+
         public static class Tree
         {
             public static Node root;
